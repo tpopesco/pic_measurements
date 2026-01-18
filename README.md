@@ -19,12 +19,6 @@ All computed metrics are automatically **exported into structured Excel tables**
 
 In addition, the code provides dedicated functions to **visualize geometric features of the instantaneous discharge rate** of individual motor units, including plots used to illustrate brace height and related measurements.
 
----
-
-## Integration with OpenHD-EMG
-
-This code is **not a standalone package** and is intended to be used **in conjunction with OpenHD-EMG**.
-
 It builds upon:
 - Motor unit decomposition outputs
 - Instantaneous discharge rate estimates
@@ -49,7 +43,6 @@ https://github.com/GiacomoValli/OpenHD-EMG
 This code is primarily intended for **research applications** involving:
 - Estimation of PIC-related metrics from HD-EMG data
 - Motor unit discharge rate analysis
-- Neuromuscular physiology studies using ΔF and brace height methods
 
 ---
 
